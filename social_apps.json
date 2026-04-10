@@ -1,0 +1,18 @@
+{
+  "facebook": {
+    "android": "FBAN/FB4A;FBAV/{version}.0.0.0",
+    "ios": "FBAN/FBIOS;FBAV/{version}.0.0.0"
+  },
+  "instagram": {
+    "android": "Instagram {version}.0.0.0 Android",
+    "ios": "Instagram {version}.0.0.0 iOS"
+  },
+  "reddit": {
+    "android": "Reddit/{version}.0.0.0",
+    "ios": "Reddit/{version}.0.0.0"
+  },
+  "tiktok": {
+    "android": "com.zhiliaoapp.musically/{version}",
+    "ios": "TikTok/{version}.0.0"
+  }
+}
