@@ -1,0 +1,19 @@
+body {
+  background: #0d0d0d;
+  color: #00ffcc;
+  font-family: monospace;
+  text-align: center;
+}
+
+button {
+  padding: 12px;
+  margin: 20px;
+  background: #00ffcc;
+  border: none;
+  cursor: pointer;
+}
+
+textarea {
+  width: 95%;
+  height: 150px;
+}
