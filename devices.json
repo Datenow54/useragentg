@@ -1,0 +1,7 @@
+[
+  {"brand":"Samsung","model":"SM-G991B","os":"Android","dpi":"420dpi","res":"1080x2400"},
+  {"brand":"Xiaomi","model":"Mi 11","os":"Android","dpi":"440dpi","res":"1440x3200"},
+  {"brand":"Google","model":"Pixel 7","os":"Android","dpi":"420dpi","res":"1080x2400"},
+  {"brand":"Apple","model":"iPhone13,3","os":"iOS","res":"1170x2532"},
+  {"brand":"Apple","model":"iPhone14,2","os":"iOS","res":"1179x2556"}
+]
